@@ -13,3 +13,8 @@ Current Bugs:
 - If a timeout ever occurs during the feed process the program will stop responding.
 - - Went back in and increased the timeout for post relating to the topics selected and this seems to have fixed the issue.
 
+
+
+July 7, 2018
+------------
+- It's been awhile now I am trying to set up gitflow for an upcoming project.
