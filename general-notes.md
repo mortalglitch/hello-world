@@ -18,3 +18,4 @@ Current Bugs:
 July 7, 2018
 ------------
 - It's been awhile now I am trying to set up gitflow for an upcoming project.
+- Last push seems to be successful now I am trying a new feature after develop/ was merged
